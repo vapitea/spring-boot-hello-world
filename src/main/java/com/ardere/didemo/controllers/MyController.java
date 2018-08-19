@@ -7,7 +7,7 @@ public class MyController {
 
 
     public String hello(){
-        System.out.println("Hello!");
+        System.out.println("Hello, edited from vim :)");
         return "";
 
     }
